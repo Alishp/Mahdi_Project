@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Profile Project</string>
+    <string name="_2hr_ago">2hr ago</string>
+    <string name="messages">Messages</string>
+    <string name="close_drawer">CLOSE</string>
+    <string name="open_drawer">OPEN</string>
+    <string name="profile">Profile</string>
+    <string name="articles">Articles</string>
+    <string name="_0">0</string>
+    <string name="_88">88</string>
+    <string name="followers">Followers</string>
+    <string name="abbas_n_n">Abbas N.N</string>
+    <string name="rafsanjan">Rafsanjan</string>
+    <string name="_26_years_old">26 Years Old</string>
+    <string name="loading_new_feed">Loading new feed</string>
+    <string name="free_mobile_ui_kit">FREE MOBILE UI KIT</string>
+    <string name="designed_for_your_needs">DESIGNED FOR YOUR NEEDS</string>
+</resources>
